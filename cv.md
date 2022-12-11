@@ -14,7 +14,7 @@ Minsk, Belarus
 
 ## **Education**
 
-**Junior frontend engineer** [RS School](https://rs.school/) *(Jul 2021 - Present)*
+**PreJunior frontend engineer** [RS School](https://rs.school/) *(Dec 2022 - Present)*
 
 **Online-intensive QA Start from mentor [Olga Zhoyd](https://www.instagram.com/olia_qacoach/)** *(Jun 2021)*
 
